@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+docxtpl
+docx2txt
+python-docx
+Pillow
+python-multipart
